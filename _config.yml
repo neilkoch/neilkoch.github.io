@@ -1,3 +1,5 @@
 url: http://www.neilkoch.com
 name: Neil Koch
 description: ""
+
+theme: jekyll-theme-architect
